@@ -5,7 +5,7 @@
     "description": "Import instant scenes from One Page Dungeon",
     "author": "Tarkan Al-Kazily",
     "authors": [ { "name": "Tarkan Al-Kazily"} ],
-    "version": "0.7.2",
+    "version": "0.7.0",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion" : "13",
     "esmodules": [
@@ -17,6 +17,6 @@
         "verified": "13"
     },
     "url": "https://github.com/TarkanAl-Kazily/one-page-parser",
-    "manifest": "https://raw.githubusercontent.com/xthesaintx/one-page-parser/refs/heads/main/module.json",
-    "download": "https://github.com/xthesaintx/one-page-parser/archive/refs/tags/v0.7.2.zip"
+    "manifest": "https://github.com/TarkanAl-Kazily/one-page-parser/releases/download/v0.7.0/module.json",
+    "download": "https://github.com/TarkanAl-Kazily/one-page-parser/archive/refs/tags/v0.7.0.zip"
 }
